@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 13c6d0c9a282c4ea8b69fc72b976b274
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 602432538372383894
+    second: Pore_Stand_0
+  - first:
+      213: 7390907157003240880
+    second: Pore_Stand_1
+  - first:
+      213: -8898577427044003424
+    second: Pore_Stand_2
+  - first:
+      213: -3336351145139053381
+    second: Pore_Stand_3
+  - first:
+      213: -6348213299517495432
+    second: Pore_Stand_4
+  - first:
+      213: -3536830519488417281
+    second: Pore_Stand_5
+  - first:
+      213: -2711477870443514340
+    second: Pore_Stand_6
+  - first:
+      213: -5988959911873345304
+    second: Pore_Stand_7
+  - first:
+      213: 4014216860992005179
+    second: Pore_Stand_8
+  - first:
+      213: -1357181204861986959
+    second: Pore_Stand_9
+  - first:
+      213: -1332434867983339493
+    second: Pore_Stand_10
+  - first:
+      213: 9121082827021015139
+    second: Pore_Stand_11
+  - first:
+      213: -6664825027292660478
+    second: Pore_Stand_12
+  - first:
+      213: -461434488671841328
+    second: Pore_Stand_13
+  - first:
+      213: 66011393401477079
+    second: Pore_Stand_14
+  - first:
+      213: 3537141750506906715
+    second: Pore_Stand_15
+  - first:
+      213: 3944818946699935967
+    second: Pore_Stand_16
+  - first:
+      213: 1927449927858566642
+    second: Pore_Stand_17
+  - first:
+      213: 7846798167737209907
+    second: Pore_Stand_18
+  - first:
+      213: -6807361440318373232
+    second: Pore_Stand_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pore_Stand_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701cd59e07854d7ab6fcce962077fa8
+      internalID: -1746311310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_1
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 6480
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a2c4d430aac4b5e8930bbfb957e75f
+      internalID: 1252629308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_2
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 6480
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d87a5929cc144c0bd58cd32517ac28
+      internalID: 2147193494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_3
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 6480
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f24ddf4ae24852b0b7050e5dcbe6d
+      internalID: -2116724646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3260
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bed0925f3834c17a522d289140156e
+      internalID: -1182854764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_5
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 3260
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6764060a2dcb422495a47d5e28ea974
+      internalID: -1084115687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_6
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 3260
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f304bedb14884ea4817788cd8ea8518
+      internalID: 726248778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_7
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 3260
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dc1a0147f8747aaa27679ceaa86ce1
+      internalID: -865742111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d2dd745dc54c4289df01c0190b969
+      internalID: 999214494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_9
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 40
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bde4145efbb495b8c04a42a9258715
+      internalID: 633581870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_10
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 40
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfd0a4acd9ea46be9cc439bd3e3b88d
+      internalID: 15800745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pore_Stand_11
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 40
+        width: 2300
+        height: 3200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbc350266211457c8c5421d15ca57da
+      internalID: -1822278357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f781553d31e5848769f950d504c67382
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pore_Stand_0: -1746311310
+      Pore_Stand_1: 1252629308
+      Pore_Stand_10: 15800745
+      Pore_Stand_11: -1822278357
+      Pore_Stand_2: 2147193494
+      Pore_Stand_3: -2116724646
+      Pore_Stand_4: -1182854764
+      Pore_Stand_5: -1084115687
+      Pore_Stand_6: 726248778
+      Pore_Stand_7: -865742111
+      Pore_Stand_8: 999214494
+      Pore_Stand_9: 633581870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
